@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiEndpoint: 'https://api.weather.gov/gridpoints/DTX/65,33/forecast'
+  apiEndpoint: 'https://api.weather.gov/gridpoints/GSP/119,55/forecast'
 };
 
 /*
