@@ -1,0 +1,13 @@
+:host p{
+    font-size: xx-large;
+    text-align: center;
+    line-height: 100px;
+}
+
+:host table{
+    border-collapse: collapse;
+}
+
+:host tr{
+    border: 2px solid gray;
+}

@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Open Sans';
+    font-weight: 300;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    width: 1000px;
+    margin: auto;
+    background: linear-gradient(0.50turn, #4488ee, #20aaeb, #20aaeb);
+}
